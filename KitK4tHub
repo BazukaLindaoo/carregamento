@@ -108,7 +108,7 @@ end
 -- ===========================
 local loaders = {
     -- Brookhaven
-    [4924922222] = 'https://scriptsbinsauth.vercel.app/api/scripts/4e20b42e-7159-4962-88c2-f302d97ffbc0/raw', 
+    [4924922222] = 'https://scriptsbinsauth.vercel.app/api/scripts/22860b0f-45cb-4d72-9360-a112ef1513d8/raw', 
     -- Muder Mystery
     [142823291] = 'https://scriptsbinsauth.vercel.app/api/scripts/28df6f92-452d-473d-9c2d-7e9ca3f744af/raw', 
 }
