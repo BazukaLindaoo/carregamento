@@ -108,7 +108,9 @@ end
 -- ===========================
 local loaders = {
     -- Brookhaven
-    [4924922222] = 'https://raw.githubusercontent.com/BazukaLindaoo/kitadminn/refs/heads/main/KitK4tHub',
+    [4924922222] = 'https://scriptsbinsauth.vercel.app/api/scripts/4e20b42e-7159-4962-88c2-f302d97ffbc0/raw', 
+    -- Muder Mystery
+    [142823291] = 'https://scriptsbinsauth.vercel.app/api/scripts/28df6f92-452d-473d-9c2d-7e9ca3f744af/raw', 
 }
 
 local placeId = game.PlaceId
