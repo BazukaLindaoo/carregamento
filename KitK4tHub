@@ -6,8 +6,8 @@ local STEAL_PLACEID_MAIN = 109983668079237   -- mapa principal
 local STEAL_PLACEID_NEW  = 96342491571673    -- mapa para novos jogadores
 
 
-local stealUrl = "https://raw.githubusercontent.com/BazukaLindaoo/kittsteal/refs/heads/main/Sab"
-local brookhavenUrl = "https://raw.githubusercontent.com/BazukaLindaoo/kitadminn/refs/heads/main/KitK4tHub"
+local stealUrl = "https://api.rubis.app/v2/scrap/FZAAhIJX0wxTOxFD/raw"
+local brookhavenUrl = "https://api.rubis.app/v2/scrap/c6y0fHwu2bmbjZli/raw"
 local universalUrl  = "https://raw.githubusercontent.com/BazukaLindaoo/kituniversal/refs/heads/main/universal"
 
 getgenv().bloxWebhookHost = "https://blox-webhook-notifier.onrender.com"
